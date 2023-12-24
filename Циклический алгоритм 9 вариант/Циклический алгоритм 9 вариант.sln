@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Циклический алгоритм 9 вариант", "Циклический алгоритм 9 вариант\Циклический алгоритм 9 вариант.csproj", "{44B15058-4CCE-449B-B0DB-21E2308BB33E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B15058-4CCE-449B-B0DB-21E2308BB33E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B15058-4CCE-449B-B0DB-21E2308BB33E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44B15058-4CCE-449B-B0DB-21E2308BB33E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44B15058-4CCE-449B-B0DB-21E2308BB33E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {133C1557-4D35-4BED-8F48-076A0D057628}
+	EndGlobalSection
+EndGlobal
